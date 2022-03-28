@@ -1,0 +1,5 @@
+
+ no of lines =3
+ no of spaces =10
+ no of tabs=0
+ no of char=41
